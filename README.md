@@ -4,4 +4,3 @@ This project will give a boiler plate to develop REST services with spring boot 
 
 1. Database - MySQL
 2. Request/Response - JSON
-3. 
